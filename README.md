@@ -1,2 +1,2 @@
-# llcu612-Jean-Philippe-Bombay-
+# llcu612-Jean-Philippe-Bombay
 mini-assignments
